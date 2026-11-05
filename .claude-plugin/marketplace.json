@@ -1,0 +1,14 @@
+{
+  "name": "growth-brain-demo",
+  "description": "Marketplace for the growth-brain-demo plugin, a function brain demo.",
+  "owner": {
+    "name": "Growth plugin owner (placeholder)"
+  },
+  "plugins": [
+    {
+      "name": "growth-brain-demo",
+      "source": "./",
+      "description": "Growth function brain: three agents, four skills, a setup command and placeholder context."
+    }
+  ]
+}
