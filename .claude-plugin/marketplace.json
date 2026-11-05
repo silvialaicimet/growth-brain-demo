@@ -2,7 +2,7 @@
   "name": "growth-brain-demo",
   "description": "Marketplace for the growth-brain-demo plugin, a function brain demo.",
   "owner": {
-    "name": "Growth plugin owner (placeholder)"
+    "name": "Silvia Laici"
   },
   "plugins": [
     {

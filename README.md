@@ -15,7 +15,7 @@ New here? Say: **help me get started**, or **I'm new, set me up**, and the onboa
 
 **Claude desktop app (Code tab)**
 
-Open the Code tab, open the plugins screen, choose "Add marketplace", enter `silvialaicimet/growth-brain-demo`, then install `growth-brain-demo`. Plugins do not load in claude.ai in the browser.
+In the Code tab, add `silvialaicimet/growth-brain-demo` as a marketplace from the plugins screen, then install `growth-brain-demo` from it. Button names vary by app version. Plugins do not load in claude.ai in the browser.
 
 Then run `/growth-brain-demo:setup` once. It reads `.claude/folders.json` if you have one, creates only the missing folders and never overwrites a file.
 
@@ -34,9 +34,9 @@ Agents write their outputs to your own `workflows/` and `drafts/` folders, never
 
 | What | Owner |
 |---|---|
-| Brand brain | TODO |
-| Legal check rules | TODO |
-| Everything else | Plugin owner (TODO) |
+| Brand brain | Brand owner |
+| Legal check rules | Legal owner |
+| Everything else | Plugin owner |
 
 ## Hooks
 
